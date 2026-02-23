@@ -53,11 +53,36 @@ SAP S/4HANA (CDS View)
 
 ## 🏗️ Some of the Sales Dashboard Images
 
-<img src="docs/Sales_dahboard_1.png" width="500">
+<table>
+ <tr>
+  <td>
+  <img src="docs/Sales_dahboard_1.png" width="500">
+ </td>
+   <td>
+  <img src="docs/Sales_dahboard_2.png" width="500">
+ </td>
+   <td>
+  <img src="docs/Sales_dahboard_2.png" width="500">
+ </td>
+ </tr>
+</table>
+
+
+
 ---
-<img src="docs/Sales_dahboard_2.png" width="500">
----
-<img src="docs/Sales_dahboard_3.png" width="500">
+## 🏗️ Some of the PP Dashboard Images
+
+<table>
+ <tr>
+  <td>
+  <img src="docs/PP_Dashboard_1.png" width="500">
+ </td>
+   <td>
+  <img src="docs/PP_Dashboard_2.png" width="500">
+ </td>
+ 
+ </tr>
+</table>
 
 ### 2️⃣ API Development for JSON Extraction
 
@@ -169,6 +194,7 @@ SAP | Azure | SQL | BI | Data Pipelines
 - BI teams exploring SAP-to-Cloud integration strategies
 
 ---
+
 
 
 

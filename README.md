@@ -97,10 +97,12 @@ Connected MSSQL database with Metabase and built:
 
 #### 🏭 Production Planning Dashboard
 - Production vs Target
-- Material Requirement Overview
-- Capacity Utilization
-- Planned vs Actual Production
-- Lead Time Analysis
+- Monthly Production Volume Trend
+- Yearly Production Performance Summary
+- Month-over-Month (MoM) Growth Analysis
+- Year-over-Year (YoY) Comparison
+- Production Volume by Order Type
+- Scrap Quantity & Scrap % Trend (Monthly/Yearly)
 
 ---
 
@@ -150,3 +152,4 @@ SAP | Azure | SQL | BI | Data Pipelines
 - BI teams exploring SAP-to-Cloud integration strategies
 
 ---
+

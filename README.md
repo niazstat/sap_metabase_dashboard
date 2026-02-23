@@ -24,7 +24,7 @@ SAP S/4HANA (CDS View)
  
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](docs/architecture.png)
+<img src="docs/architecture.png" width="400">
 --
 ## 🔧 Technology Stack
 
@@ -161,6 +161,7 @@ SAP | Azure | SQL | BI | Data Pipelines
 - BI teams exploring SAP-to-Cloud integration strategies
 
 ---
+
 
 
 

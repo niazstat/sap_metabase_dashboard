@@ -17,20 +17,11 @@ SAP S/4HANA (CDS View)
 → Custom API (JSON Extraction)  
 → Azure Function (Scheduled Execution)  
 → Local MSSQL Database  
-→ Metabase Dashboard  
+→ Metabase Dashboard 
+.NET Web API (Middleware)  
 
 ---
-## 🏗️ System Architecture
-
-This project follows a hybrid cloud integration pattern.
-
-Azure Function (Timer Trigger)  
-→ .NET Web API (Middleware)  
-→ SAP S/4HANA API (CDS/OData)  
-→ Local MSSQL Database  
-→ Metabase Dashboard  
-
-### Architecture Diagram
+ 
 
 --
 ## 🔧 Technology Stack
@@ -38,6 +29,7 @@ Azure Function (Timer Trigger)
 - SAP S/4HANA
 - ABAP CDS Views (Parameterized)
 - OData / Custom API
+- .NET Web API (Middleware)  
 - Azure App Function (Timer Trigger)
 - Microsoft SQL Server (Local)
 - Metabase (BI & Visualization)
@@ -167,6 +159,7 @@ SAP | Azure | SQL | BI | Data Pipelines
 - BI teams exploring SAP-to-Cloud integration strategies
 
 ---
+
 
 
 

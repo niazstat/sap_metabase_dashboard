@@ -62,7 +62,7 @@ SAP S/4HANA (CDS View)
   <img src="docs/Sales_dahboard_2.png" width="500">
  </td>
    <td>
-  <img src="docs/Sales_dahboard_2.png" width="500">
+  <img src="docs/Sales_dahboard_3.png" width="500">
  </td>
  </tr>
 </table>
@@ -194,6 +194,7 @@ SAP | Azure | SQL | BI | Data Pipelines
 - BI teams exploring SAP-to-Cloud integration strategies
 
 ---
+
 
 
 

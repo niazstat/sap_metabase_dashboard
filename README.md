@@ -11,6 +11,8 @@ The goal was to extract sales and production planning data from SAP S/4HANA usin
 
 ## 🏗️ Architecture Overview
 
+
+
 SAP S/4HANA (CDS View)  
 → Custom API (JSON Extraction)  
 → Azure Function (Scheduled Execution)  
@@ -18,7 +20,19 @@ SAP S/4HANA (CDS View)
 → Metabase Dashboard  
 
 ---
+## 🏗️ System Architecture
 
+This project follows a hybrid cloud integration pattern.
+
+Azure Function (Timer Trigger)  
+→ .NET Web API (Middleware)  
+→ SAP S/4HANA API (CDS/OData)  
+→ Local MSSQL Database  
+→ Metabase Dashboard  
+
+### Architecture Diagram
+
+--
 ## 🔧 Technology Stack
 
 - SAP S/4HANA
@@ -153,5 +167,6 @@ SAP | Azure | SQL | BI | Data Pipelines
 - BI teams exploring SAP-to-Cloud integration strategies
 
 ---
+
 
 

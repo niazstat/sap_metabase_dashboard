@@ -139,6 +139,7 @@ Connected MSSQL database with Metabase and built:
 ## 👤 Author
 
 **Niaz Morshed**  
+Software Developer(C#, ABAP)
 Data Engineering & Analytics Enthusiast  
 SAP | Azure | SQL | BI | Data Pipelines  
 
@@ -152,4 +153,5 @@ SAP | Azure | SQL | BI | Data Pipelines
 - BI teams exploring SAP-to-Cloud integration strategies
 
 ---
+
 
